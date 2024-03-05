@@ -3,14 +3,21 @@
 # Title: Maze GAME
 
 ## Explanation
-* This is a start screen of the game. If you press any keys, you can start the game.
+* This is a game screen. There are three modes. (easy / medium / hard)
   
-![Startscreeen_img](https://github.com/seoooa/vmp_final_20211511_KIMSEOA/assets/102460668/de1d1af5-5f0c-4673-8500-3e8925606607)
+![easy_img](https://github.com/seoooa/2022-1_COMSIL1_PRJ/blob/main/pic%20asset/easy.jpg)
+![medium_img](https://github.com/seoooa/2022-1_COMSIL1_PRJ/blob/main/pic%20asset/medium.jpg)
+![hard_img](https://github.com/seoooa/2022-1_COMSIL1_PRJ/blob/main/pic%20asset/difficult.jpg)
 
 #
 
-* This is a game screen. You can move player 1 by a,w,s keys and player2 by direction keys.
-* Two players must escape together using multiple items.
+* You can move up, down, right and left
+* And you can use item to find the shortest path to treasure
   
-![Game_img](https://github.com/seoooa/vmp_final_20211511_KIMSEOA/assets/102460668/307cb21a-303e-41d1-a367-03828fbfdd9a)
+![item_img](https://github.com/seoooa/2022-1_COMSIL1_PRJ/blob/main/pic%20asset/item.jpg)
 
+#
+
+* This is the end screen.
+
+![gameoverimg](https://github.com/seoooa/2022-1_COMSIL1_PRJ/blob/main/pic%20asset/gameover.jpg)
